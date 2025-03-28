@@ -1,0 +1,22 @@
+2025/03/27 23:10:23 [error] 34520#17820: *1 CreateFile() "C:\nginx/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2025/03/28 11:19:50 [emerg] 21192#11356: unknown directive "event" in C:\nginx/conf/nginx.conf:9
+2025/03/28 11:21:02 [notice] 39468#36676: signal process started
+2025/03/28 11:21:32 [error] 25284#15832: *4 CreateFile() "C:\mysite\index.html/api/v1/swagger-ui/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /api/v1/swagger-ui/index.html HTTP/1.1", host: "localhost:8080"
+2025/03/28 11:21:33 [error] 25284#15832: *4 CreateFile() "C:\mysite\index.html/favicon.ico" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/api/v1/swagger-ui/index.html"
+2025/03/28 11:21:40 [error] 25284#15832: *4 "C:\mysite\index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2025/03/28 11:21:59 [error] 25284#15832: *4 "C:\mysite\index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2025/03/28 11:22:51 [error] 25284#15832: *4 "C:\mysite\index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2025/03/28 11:23:13 [notice] 17716#6716: signal process started
+2025/03/28 11:23:16 [error] 25284#15832: *7 "C:\mysite\index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2025/03/28 11:23:18 [error] 25424#19588: *8 "C://mysite/index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2025/03/28 11:23:19 [error] 25424#19588: *8 "C://mysite/index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2025/03/28 11:23:20 [error] 25424#19588: *8 "C://mysite/index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2025/03/28 11:23:30 [error] 25424#19588: *8 "C://mysite/index.html/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8080"
+2025/03/28 11:24:02 [notice] 29300#20260: signal process started
+2025/03/28 11:24:56 [notice] 24692#22348: signal process started
+2025/03/28 11:25:23 [emerg] 36580#22852: invalid number of arguments in "root" directive in C:\nginx/conf/nginx.conf:45
+2025/03/28 11:25:45 [emerg] 12576#18980: invalid number of arguments in "root" directive in C:\nginx/conf/nginx.conf:45
+2025/03/28 11:26:42 [notice] 40704#41756: signal process started
+2025/03/28 11:26:52 [error] 992#16888: *13 CreateFile() "C:\mysite/api/v1/swagger-ui/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /api/v1/swagger-ui/index.html HTTP/1.1", host: "localhost:8080"
+2025/03/28 11:50:24 [notice] 17688#30160: signal process started
+2025/03/28 11:52:19 [notice] 35676#36328: signal process started
