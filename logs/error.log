@@ -20,3 +20,4 @@
 2025/03/28 11:26:52 [error] 992#16888: *13 CreateFile() "C:\mysite/api/v1/swagger-ui/index.html" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /api/v1/swagger-ui/index.html HTTP/1.1", host: "localhost:8080"
 2025/03/28 11:50:24 [notice] 17688#30160: signal process started
 2025/03/28 11:52:19 [notice] 35676#36328: signal process started
+2025/03/28 11:57:02 [notice] 32880#19720: signal process started
