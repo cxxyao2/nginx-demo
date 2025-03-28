@@ -31,3 +31,6 @@
 127.0.0.1 - - [28/Mar/2025:12:04:58 -0400] "GET /vegetables HTTP/1.1" 301 169 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 127.0.0.1 - - [28/Mar/2025:12:04:58 -0400] "GET /vegetables/ HTTP/1.1" 403 555 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
 127.0.0.1 - - [28/Mar/2025:12:06:19 -0400] "GET /vegetables/ HTTP/1.1" 200 309 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+127.0.0.1 - - [28/Mar/2025:12:19:34 -0400] "GET /count/0 HTTP/1.1" 200 406 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+127.0.0.1 - - [28/Mar/2025:12:19:34 -0400] "GET /count/style.css HTTP/1.1" 404 555 "http://localhost:8080/count/0" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+127.0.0.1 - - [28/Mar/2025:12:19:34 -0400] "GET /count/script.js HTTP/1.1" 404 555 "http://localhost:8080/count/0" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"

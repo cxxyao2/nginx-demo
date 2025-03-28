@@ -27,3 +27,6 @@
 2025/03/28 12:05:21 [emerg] 3524#37760: invalid number of arguments in "try_files" directive in C:\nginx/conf/nginx.conf:19
 2025/03/28 12:06:16 [notice] 20024#19284: signal process started
 2025/03/28 12:19:26 [notice] 13668#27008: signal process started
+2025/03/28 12:19:34 [error] 30556#15328: *34 CreateFile() "C:\mysite/count/style.css" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/style.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/count/0"
+2025/03/28 12:19:34 [error] 30556#15328: *35 CreateFile() "C:\mysite/count/script.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/script.js HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/count/0"
+2025/03/28 12:22:48 [notice] 22912#31460: signal process started
