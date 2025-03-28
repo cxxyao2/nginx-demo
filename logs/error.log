@@ -31,3 +31,6 @@
 2025/03/28 12:19:34 [error] 30556#15328: *35 CreateFile() "C:\mysite/count/script.js" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /count/script.js HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/count/0"
 2025/03/28 12:22:48 [notice] 22912#31460: signal process started
 2025/03/28 12:25:36 [notice] 14888#21196: signal process started
+2025/03/28 12:25:44 [error] 26716#24728: *40 CreateFile() "C:\mysite/count/style" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /number/style.css HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/number/3"
+2025/03/28 12:25:44 [error] 26716#24728: *41 CreateFile() "C:\mysite/count/script" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /number/script.js HTTP/1.1", host: "localhost:8080", referrer: "http://localhost:8080/number/3"
+2025/03/28 13:34:02 [notice] 36436#22332: signal process started
